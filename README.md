@@ -8,11 +8,11 @@ This module emulates a notch without a cutout and changes the size of the strip 
 
 Before:
 
-![](https://i.imgur.com/B8kYF3S.png)
+![](https://i.imgur.com/4ADQ1K5.png)
 
 After:
 
-![](https://i.imgur.com/4ADQ1K5.png)
+![](https://i.imgur.com/B8kYF3S.png)
 
 ## Installation
 1. Flash this module.
