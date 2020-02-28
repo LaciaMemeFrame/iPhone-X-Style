@@ -26,3 +26,5 @@ After:
 ## Changelog
 ### v1.0
 - Initial release
+### v1.1
+- Minor changes
