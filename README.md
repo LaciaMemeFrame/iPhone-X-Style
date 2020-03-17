@@ -28,3 +28,5 @@ After:
 - Initial release
 ### v1.1
 - Minor changes
+### v1.2
+- Minor changes
